@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate.*
+.terraform/ echo *.tfstate echo *.tfstate.*
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfstate
+*.tfstate.*
